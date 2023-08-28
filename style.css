@@ -1,0 +1,250 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: 0;
+}
+.father{
+    width: 100%;
+    height: 40px;
+    border: 5px solid black;
+    display: flex;
+}
+                .son1{
+                    background-color: yellow;
+                    color: red;
+                    width: 20%;
+                    text-align: center;
+                }
+                .son2{
+                    background-color: #ddd;
+                    color: black;
+                    width: 40%;
+                    text-align: center;
+                }
+                .son3{
+                    background-color: blue;
+                    color: red;
+                    width: 40%;
+                    text-align: center;
+                
+                }
+.grandfather{
+    width: 100%;
+    height: 50px;
+    border: 5px solid black;
+    display: flex;
+
+}
+            .son01{
+                background-color: peru;
+                color: black;
+                width: 12.5%;
+                text-align: center;
+            }
+            .son02{
+                background-color: wheat;
+                color: black;
+                width: 12.5%;
+                text-align: center;
+            }
+
+            .son03{
+                background-color: purple;
+                color: black;
+                width: 12.5%;
+                text-align: center;
+            }
+
+            .son04{
+                background-color: red;
+                color: black;
+                width: 12.5%;
+                text-align: center;
+            }
+
+            .son05{
+                background-color: blueviolet;
+                color: black;
+                width: 12.5%;
+                text-align: center;
+            }
+
+            .son06{
+                background-color: yellowgreen;
+                color: black;
+                width: 12.5%;
+                text-align: center;
+            }
+
+            .son07{
+                background-color: grey;
+                color: black;
+                width: 12.5%;
+                text-align: center;
+            }
+
+            .son08{
+                background-color: palevioletred;
+                color: black;
+                width: 12.5%;
+                text-align: center;
+            }
+.creative{
+    width: 100%;
+    height: 50px;
+    border: 5px solid black;
+    display: flex;
+}
+            .creative1{
+                background-color: powderblue;
+                color: black;
+                width: 70%;
+                text-align: center;
+            }
+            .creative2{
+                background-color: peachpuff;
+                color: black;
+                width: 30%;
+                text-align: center;
+            }
+    .institute{
+    width: 100%;
+    height: 40px;
+    border: 5px solid black;
+    display: flex;
+   }
+                        .institute1{
+                            background-color: purple;
+                            color: white;
+                            width: 100%;
+                            text-align: center;
+                        }
+     .leptob{
+             width: 100%;
+            height: 70px;
+            border: 5px solid black;
+            display: flex;
+         }         
+         .leptob1{
+                      background-color: goldenrod;
+                     color: red;
+                    width: 33.33%;
+                     text-align: center;
+                     }
+            .leptob2{
+                       background-color: blue;
+                       color: black;
+                       width: 33.33%;
+                      text-align: center;
+                     }
+             .leptob3{
+                      background-color: brown;
+                    color: red;
+                    width: 33.33%;
+                      text-align: center;
+                      }
+ .computer{
+       width: 100%;
+     height: 70px;
+     border: 5px solid black;
+     display: flex;
+    }         
+                    .computer1{
+                                 background-color: black;
+                                color: red;
+                           width: 20%;
+                                text-align: center;
+                                }
+                                .computer2{
+                                  background-color: blanchedalmond;
+                                  color: black;
+                                width: 40%;
+                                 text-align: center;
+                                }
+                                .computer3{
+                                 background-color: goldenrod;
+                               color: red;
+                              width: 40%;
+                                 text-align: center;
+                                 }
+    b{
+   
+    color: black;
+    font-size: 20px;
+    }
+ .layout{
+    width: 100%;
+    height: 200px;
+    border: 5px solid black;
+     display: flex;
+     justify-content: space-evenly;
+     flex-wrap: wrap;
+     }
+     .layout1{
+        background-color: blue;
+        width: 100px;
+        height: 50px;
+     }
+     .layout2{
+        background-color: purple;
+        width: 100px;
+        height: 50px;
+     }
+     .layout3{
+        background-color: plum;
+        width: 100px;
+        height: 50px;
+     }
+     .layout4{
+        background-color: red;
+        width: 100px;
+        height: 50px;
+     }
+     .design{
+        width: 100%;
+        height: 200px;
+        border: 5px solid black;
+         display: flex;
+         justify-content: space-evenly;
+         align-items: center;
+         }
+         .design1{
+            background-color: blue;
+            width: 100px;
+            height: 50px;
+         }
+         .design2{
+            background-color: purple;
+            width: 100px;
+            height: 50px;
+         }
+         .design3{
+            background-color: plum;
+            width: 100px;
+            height: 50px;
+         }
+         .design4{
+            background-color: red;
+            width: 100px;
+            height: 50px;
+         }
+         .google{
+            text-decoration: none;
+          
+          
+         }
+         .google:hover{
+            color: white;
+            background-color: red;
+            transition: 5s;
+          
+
+         }
+    
+    
+    
+    
+
+
+
